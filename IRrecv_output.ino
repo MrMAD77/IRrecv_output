@@ -3,7 +3,11 @@
  * An IR detector/demodulator must be connected to the input RECV_PIN.
  * Version 0.1 July, 2009
  * Copyright 2009 Ken Shirriff
+<<<<<<< HEAD
  * Johan test 2
+=======
+ * Johan test 1
+>>>>>>> 8fb6acb72b2a85af4c6dab5a73554e2f4fa44dcb
  * http://arcfn.com
  */
 
